@@ -1,0 +1,25 @@
+.order{
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30vw;
+    height: 70vh;
+}
+
+.border{
+    border: 1px solid #000;
+    height: 4vh;
+}
+
+.order div{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.order ul{
+    overflow: scroll;
+}

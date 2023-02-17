@@ -1,0 +1,14 @@
+.listItem{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItem div{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}

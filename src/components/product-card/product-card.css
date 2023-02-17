@@ -1,0 +1,13 @@
+.productDiv{
+    width: 16vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #000;
+}
+
+.productDiv h3{
+    width: 30%;
+}
